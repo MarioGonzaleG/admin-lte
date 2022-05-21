@@ -102,7 +102,12 @@
                     <img src="./dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
-                    <a href="#" class="d-block">Mario</a>
+                    <a href="#" class="d-block">Jonathan</a>
+                    <a href="./login.php" class="d-block">
+                        <span class="badge bg-warning">
+                            <i class="fas fa-door-open mr-2"></i>Cerrar sesión
+                        </span>
+                    </a>
                 </div>
             </div>
 

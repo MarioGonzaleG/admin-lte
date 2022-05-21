@@ -40,7 +40,7 @@
                                         <tbody>
                                           <tr>
                                             <td>1</td>
-                                            <td>Walter</td>
+                                            <td>Alberto</td>
                                             <td>
                                               <div class="progress progress-xs">
                                                 <div class="progress-bar progress-bar-danger" style="width: 55%"></div>
@@ -56,7 +56,7 @@
                                                         <a class="dropdown-item text-info" href="#"><i class="fas fa-eye mr-3"></i>Ver</a>
                                                         <a class="dropdown-item text-success" href="#"><i class="fas fa-edit mr-3"></i>Editar</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <button class="dropdown-item text-danger" onclick="remove('Walter')">
+                                                        <button class="dropdown-item text-danger" onclick="remove('Alberto')">
                                                             <i class="fas fa-trash mr-3"></i>Eliminar
                                                         </button>
                                                     </div>
@@ -65,7 +65,7 @@
                                           </tr>
                                           <tr>
                                             <td>2</td>
-                                            <td>Ana</td>
+                                            <td>Lizeth</td>
                                             <td>
                                               <div class="progress progress-xs">
                                                 <div class="progress-bar bg-warning" style="width: 70%"></div>
@@ -81,7 +81,7 @@
                                                         <a class="dropdown-item text-info" href="#"><i class="fas fa-eye mr-3"></i>Ver</a>
                                                         <a class="dropdown-item text-success" href="#"><i class="fas fa-edit mr-3"></i>Editar</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <button class="dropdown-item text-danger" onclick="remove('Ana')">
+                                                        <button class="dropdown-item text-danger" onclick="remove('Lizeth')">
                                                             <i class="fas fa-trash mr-3"></i>Eliminar
                                                         </button>
                                                     </div>
@@ -90,7 +90,7 @@
                                           </tr>
                                           <tr>
                                             <td>3</td>
-                                            <td>Juan</td>
+                                            <td>Carlos</td>
                                             <td>
                                               <div class="progress progress-xs progress-striped active">
                                                 <div class="progress-bar bg-primary" style="width: 30%"></div>
@@ -106,7 +106,7 @@
                                                         <a class="dropdown-item text-info" href="#"><i class="fas fa-eye mr-3"></i>Ver</a>
                                                         <a class="dropdown-item text-success" href="#"><i class="fas fa-edit mr-3"></i>Editar</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <button class="dropdown-item text-danger" onclick="remove('Juan')">
+                                                        <button class="dropdown-item text-danger" onclick="remove('Carlos')">
                                                             <i class="fas fa-trash mr-3"></i>Eliminar
                                                         </button>
                                                     </div>
@@ -115,7 +115,7 @@
                                           </tr>
                                           <tr>
                                             <td>4</td>
-                                            <td>Ramón</td>
+                                            <td>Hector</td>
                                             <td>
                                               <div class="progress progress-xs progress-striped active">
                                                 <div class="progress-bar bg-success" style="width: 90%"></div>
@@ -131,7 +131,7 @@
                                                         <a class="dropdown-item text-info" href="#"><i class="fas fa-eye mr-3"></i>Ver</a>
                                                         <a class="dropdown-item text-success" href="#"><i class="fas fa-edit mr-3"></i>Editar</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <button class="dropdown-item text-danger" onclick="remove('Ramón')">
+                                                        <button class="dropdown-item text-danger" onclick="remove('Hector')">
                                                             <i class="fas fa-trash mr-3"></i>Eliminar
                                                         </button>
                                                     </div>
