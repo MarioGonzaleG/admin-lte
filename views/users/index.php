@@ -32,15 +32,15 @@
                                         <thead>
                                           <tr>
                                             <th style="width: 10px">#</th>
-                                            <th>Task</th>
-                                            <th>Progress</th>
-                                            <th style="width: 40px">Label</th>
+                                            <th>Nombre</th>
+                                            <th>Progreso</th>
+                                            <th style="width: 40px">Acciones</th>
                                           </tr>
                                         </thead>
                                         <tbody>
                                           <tr>
-                                            <td>1.</td>
-                                            <td>Update software</td>
+                                            <td>1</td>
+                                            <td>Walter</td>
                                             <td>
                                               <div class="progress progress-xs">
                                                 <div class="progress-bar progress-bar-danger" style="width: 55%"></div>
@@ -49,7 +49,7 @@
                                             <td><span class="badge bg-danger">55%</span></td>
                                           </tr>
                                           <tr>
-                                            <td>2.</td>
+                                            <td>2</td>
                                             <td>Clean database</td>
                                             <td>
                                               <div class="progress progress-xs">
@@ -59,7 +59,7 @@
                                             <td><span class="badge bg-warning">70%</span></td>
                                           </tr>
                                           <tr>
-                                            <td>3.</td>
+                                            <td>3</td>
                                             <td>Cron job running</td>
                                             <td>
                                               <div class="progress progress-xs progress-striped active">
@@ -69,7 +69,7 @@
                                             <td><span class="badge bg-primary">30%</span></td>
                                           </tr>
                                           <tr>
-                                            <td>4.</td>
+                                            <td>4</td>
                                             <td>Fix and squish bugs</td>
                                             <td>
                                               <div class="progress progress-xs progress-striped active">
